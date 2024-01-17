@@ -1,6 +1,6 @@
 import requests
 # Prompt the user for destination URL
-url = input("Enter the destination URL: ")
+url = input("https://github.com/alaneyr")
 # Prompt the user to select an HTTP Method
 http_method = input("Choose an HTTP Method (GET, POST, PUT, DELETE, HEAD, PATCH, OPTIONS): ").upper()
 # Display the request details to the user
