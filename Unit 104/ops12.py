@@ -62,3 +62,4 @@ while response not in directions:
         print("You decide to visit Hogsmeade. The Three Broomsticks invites you for a Butterbeer.")
     else:
         print("I didn't understand that. Choose left, right, forward, or backward.\n")
+        break
